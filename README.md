@@ -1,5 +1,4 @@
 # hello-world-
 hmm new stuffs
-poliglota
-aprendendo python 
+trying to learn python
 
